@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-audio-spectral-clipping-detector-skill",
+  "version": "1.0.0",
+  "description": "Real-time audio DSP analyzer calculating RMS energy, ZCR, crest factor, and dynamic range clipping saturation",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["audio-dsp", "spectral-analysis", "clipping-detector", "rms-energy", "voice-vad", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
